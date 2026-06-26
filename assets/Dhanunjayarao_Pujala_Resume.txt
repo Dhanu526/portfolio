@@ -1,0 +1,45 @@
+DHANUNJAYARAO PUJALA
+Hyderabad, Telangana
+Phone: +91 7569601118
+Email: pujaladhanu@gmail.com
+LinkedIn: https://www.linkedin.com/in/dhanu526/
+
+Professional Summary
+MLOps Engineer with 1+ year of experience in Python automation and ML operations. Experienced in workflow monitoring, troubleshooting, internal tool development, and cloud-based data management.
+
+Experience
+Machine Learning Technical Operations Engineer
+Track3D | Hyderabad
+February 2025 - Present
+- Developed Python automation scripts to reduce manual effort and improve efficiency.
+- Built internal tools for workflow tracking and monitoring.
+- Managed workflow data and logs using AWS S3 and GCP.
+- Monitored ML workflows and performed troubleshooting to ensure successful execution.
+- Performed data validation, debugging, and workflow optimization.
+- Used Git and GitHub for version control and collaboration.
+
+Skills
+Programming: Python, Bash
+Cloud and Tools: AWS S3, GCP, Git, GitHub, Linux
+Core Skills: Python Automation, ML Operations, Workflow Monitoring, Internal Tool Development, Debugging and Troubleshooting
+
+Projects
+Local ChatRAG - AI Document Assistant (Personal Project)
+Tech: Python, Ollama, Llama 3.2, ChromaDB, Streamlit
+- Built a fully local RAG chatbot for querying PDFs and text documents.
+- Implemented hybrid retrieval using BM25 and vector embeddings for accurate search.
+- Built a Streamlit-based interface with conversation memory and source references.
+- Built a private AI assistant using Llama 3.2 and Ollama.
+
+Geo Workflow Automation Tool (Personal Project)
+Tech: Python, Gradio, AWS S3, Plotly
+- Built a web-based tool for geo-data visualization and workflow automation.
+- Integrated AWS S3 for file management and image synchronization.
+- Automated GeoJSON generation and dataset splitting.
+- Developed an interactive Gradio interface with Plotly visualizations.
+
+Education
+Bachelor of Technology in Computer Science
+Helapuri Institution of Technology and Science | Eluru, AP
+May 2019 - Apr 2023
+CGPA: 7.3
