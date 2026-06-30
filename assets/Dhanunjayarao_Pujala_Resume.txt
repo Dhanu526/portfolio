@@ -3,6 +3,8 @@ Hyderabad, Telangana
 Phone: +91 7569601118
 Email: pujaladhanu@gmail.com
 LinkedIn: https://www.linkedin.com/in/dhanu526/
+GitHub: https://github.com/Dhanu526
+Portfolio: https://portfolio-dhanu2101.vercel.app
 
 Professional Summary
 MLOps Engineer with 1+ year of experience in Python automation and ML operations. Experienced in workflow monitoring, troubleshooting, internal tool development, and cloud-based data management.
