@@ -70,6 +70,11 @@
     }
 
     @media print {
+      @page {
+        size: letter;
+        margin: 0.4in;
+      }
+
       body {
         background: #fff;
       }
@@ -77,9 +82,40 @@
       .page {
         border: none;
         box-shadow: none;
-        width: 100%;
+        width: auto;
         margin: 0;
         padding: 0;
+      }
+
+      h1 {
+        font-size: 16pt;
+      }
+
+      .meta {
+        margin-top: 3pt;
+        font-size: 8pt;
+        line-height: 1.2;
+      }
+
+      h2 {
+        margin: 8pt 0 2pt;
+        font-size: 11pt;
+      }
+
+      p,
+      li {
+        font-size: 9pt;
+        line-height: 1.15;
+        margin: 1pt 0;
+      }
+
+      .role-row {
+        gap: 8pt;
+        margin-top: 2pt;
+      }
+
+      ul {
+        margin: 2pt 0 3pt 14pt;
       }
     }
   </style>
@@ -94,8 +130,9 @@
 
     <h2>Technical Skills</h2>
     <p><strong>Programming:</strong> Python, Bash</p>
-    <p><strong>Cloud and Tools:</strong> AWS S3, GCP, Git, GitHub, Linux</p>
-    <p><strong>Core Skills:</strong> Python Automation, ML Operations, Basic Machine Learning, Workflow Monitoring, Internal Tool Development, Debugging and Troubleshooting</p>
+    <p><strong>Cloud and Tools:</strong> AWS S3, GCP, Docker, Git, GitHub, Linux</p>
+    <p><strong>AI Foundations:</strong> Basic LLM and RAG Concepts</p>
+    <p><strong>Core Skills:</strong> Statistics, Python Automation, ML Operations, Basic Machine Learning, Workflow Monitoring, Internal Tool Development, Debugging and Troubleshooting</p>
 
     <h2>Experience</h2>
     <div class="role-row">
@@ -103,6 +140,7 @@
       <p><strong>Feb 2025 - Present</strong></p>
     </div>
     <p class="muted">Track3D | Hyderabad</p>
+    <p class="muted">Three-month internship: Feb-Apr 2025 | Permanent role: May 2025-Present</p>
     <ul>
       <li>Developed Python automation scripts to reduce manual effort and improve efficiency.</li>
       <li>Built internal tools for workflow tracking and monitoring.</li>
@@ -123,10 +161,13 @@
 
     <p><strong>Geo Workflow Automation Tool</strong> (Python, Gradio, AWS S3, Plotly)</p>
     <ul>
-      <li>Built a web-based tool for geo-data visualization and workflow automation.</li>
-      <li>Integrated AWS S3 for file management and image synchronization.</li>
-      <li>Automated GeoJSON generation and dataset splitting.</li>
-      <li>Developed an interactive Gradio interface with Plotly visualizations.</li>
+      <li>Automated GeoJSON generation and dataset splitting in a Gradio tool, with AWS S3 synchronization and Plotly visualizations.</li>
+    </ul>
+
+    <p><strong>Teach Me This Code - Python Visualizer &amp; DSA Platform</strong> (JavaScript, Python AST)</p>
+    <ul>
+      <li>Built an offline-first platform with 300 problems across 30 topics, dynamic templates, and an in-browser editor with instant tests.</li>
+      <li>Engineered an AST visualizer for sandboxed execution, call stacks, heap references, stepping, short-circuit logic, and garbage collection; added 3 responsive themes, 40+ JavaScript and 30+ Python test suites, and security audits.</li>
     </ul>
 
     <h2>Education</h2>
