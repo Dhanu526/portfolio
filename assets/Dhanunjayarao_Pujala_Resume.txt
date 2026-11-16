@@ -13,6 +13,7 @@ Experience
 Machine Learning Technical Operations Engineer
 Track3D | Hyderabad
 February 2025 - Present
+- Started with a three-month internship (February-April 2025); converted to a permanent role in May 2025.
 - Developed Python automation scripts to reduce manual effort and improve efficiency.
 - Built internal tools for workflow tracking and monitoring.
 - Managed workflow data and logs using AWS S3 and GCP.
@@ -22,8 +23,9 @@ February 2025 - Present
 
 Skills
 Programming: Python, Bash
-Cloud and Tools: AWS S3, GCP, Git, GitHub, Linux
-Core Skills: Python Automation, ML Operations, Basic Machine Learning, Workflow Monitoring, Internal Tool Development, Debugging and Troubleshooting
+Cloud and Tools: AWS S3, GCP, Docker, Git, GitHub, Linux
+AI Foundations: Basic LLM and RAG Concepts
+Core Skills: Statistics, Python Automation, ML Operations, Basic Machine Learning, Workflow Monitoring, Internal Tool Development, Debugging and Troubleshooting
 
 Projects
 Local ChatRAG - AI Document Assistant (Personal Project)
@@ -36,9 +38,12 @@ Tech: Python, Ollama, Llama 3.2, ChromaDB, Streamlit
 Geo Workflow Automation Tool (Personal Project)
 Tech: Python, Gradio, AWS S3, Plotly
 - Built a web-based tool for geo-data visualization and workflow automation.
-- Integrated AWS S3 for file management and image synchronization.
-- Automated GeoJSON generation and dataset splitting.
-- Developed an interactive Gradio interface with Plotly visualizations.
+- Automated GeoJSON generation and dataset splitting in a Gradio tool, with AWS S3 synchronization and Plotly visualizations.
+
+Teach Me This Code - Python Visualizer & DSA Platform (Personal Project)
+Tech: JavaScript, Python AST
+- Built an offline-first platform with 300 problems across 30 topics, dynamic templates, and an in-browser editor with instant tests.
+- Engineered an AST visualizer for sandboxed execution, call stacks, heap references, stepping, short-circuit logic, and garbage collection; added 3 responsive themes, 40+ JavaScript and 30+ Python test suites, and security audits.
 
 Education
 Bachelor of Technology in Computer Science
